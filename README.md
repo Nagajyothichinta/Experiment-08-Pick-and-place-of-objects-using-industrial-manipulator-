@@ -79,35 +79,28 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
 
+### output video and screen shots of pick and place: 
 
+### PROGRAM:
 
+![output](./xx.png)
 
+![output](./xx1.png)
 
+![output](./xx2.png)
 
+### Robot action:
 
+![output](./xx3.png)
 
+![output](./xx4.png)
 
-
-
-
-
-
-
-
-
-
-### output video and screen shots of pick and place 
-
-
-
-
-
+![output](./xx5.png)
 
 
 ### Results: 
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
